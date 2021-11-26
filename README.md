@@ -1,2 +1,3 @@
-# jacquire
+# JAcquire
+
 Acquire external assets

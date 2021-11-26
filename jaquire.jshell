@@ -1,0 +1,2 @@
+/open https://github.com/sormuras/jacquire/raw/main/JAcquire.java
+/exit new JAcquire().run(System.out, System.err /*, args*/)
